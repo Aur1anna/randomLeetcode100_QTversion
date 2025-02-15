@@ -2,7 +2,9 @@
 
 本项目是之前控制台应用程序版本的使用Qt框架的图形界面版本。
 
-![image-20250215175627912](README.assets/image-20250215175627912.png)![image-20250215175647305](README.assets/image-20250215175647305.png)
+![image-20250215211454143](README.assets/image-20250215211454143.png)
+
+![image-20250215175627912](README.assets/image-20250215175627912.png![image-20250215175647305](README.assets/image-20250215175647305.png)
 
 本项目仅供娱乐或参考。
 
